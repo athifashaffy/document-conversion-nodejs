@@ -3,3 +3,4 @@ uploads/*
 !uploads/README.md
 coverage
 .env
+config.bat
